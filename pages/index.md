@@ -1,7 +1,10 @@
-# Nextra
+# mCloud - Free Web Hosting For All!
 
-**Nextra** is a [Next.js](https://nextjs.org) based static site generator. 0 lines of code needed.  
+**mCloud** Is A Non-profit Which Aims To Provide Free Internet Services All Around The Globe. We Currently Have Web Hosting, We Are Soon Planning On Introducing [Node.JS Hosting](https://nodejs.org), With Node.JS You Will Be Able To Use Many Different Frameworks, And Will Be Able To Deploy Advanced Apps. You Will Be Able To Deploy, Websites With React.js, Express.js And Many More, You Will Be Able To Use NextJS, Which Is The Framework We Use For This Documentation. You Will Also Be Able To Create Things Like Discord Bot As Well. Discord Bot Will Utilise, The NPM Library Called [discord.js](https://discord.js.org).
 
-It supports Markdown with React components ([MDX](/docs/mdx)), automatically generated [sidebar and anchor links](/docs/anchors), file-system based routing, built-in syntax highlighting, i18n and more.
+## Our Goal
+Our Goal At **mCloud** Is To, Allow People To Deploy Web Apps, Discord Bots, Websites And Many More.
 
-![](/demo.png)
+## Credits
+All The Credits Go To [**Mr. Mahir Molai, The CEO Of mCloud**](https://mtgsquad-dev.com).
+
