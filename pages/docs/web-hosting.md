@@ -10,3 +10,4 @@
 5: Publish Your Site By Putting The Files Via FTP Or Using WordPress To Create One, Or Coding One On The Web Editor.
 <br>
 6: Test Your Site, By Firing Up A Browser And Going To `yourdomain.tld`! 
+</br>
