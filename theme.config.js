@@ -1,11 +1,11 @@
 export default {
-  repository: 'https://github.com/shuding/nextra',
-  titleSuffix: ' – Nextra',
+  repository: 'https://github.com/mtgsquad/nextjs-docs',
+  titleSuffix: ' – mCloud',
   logo: (
     <>
-      <span className="mr-2 font-extrabold hidden md:inline">Nextra</span>
+      <span className="mr-2 font-extrabold hidden md:inline">mCloud</span>
       <span className="text-gray-600 font-normal hidden md:inline">
-        The Next Site Builder
+        The Non-profit Which Cares Abuot Your Online Presence
       </span>
     </>
   ),
@@ -37,5 +37,5 @@ export default {
   nextLinks: true,
   footer: true,
   footerEditOnGitHubLink: true,
-  footerText: <>MIT {new Date().getFullYear()} © Nextra.</>
+  footerText: <>Copyright {new Date().getFullYear()} © mCloud, Docs Made With Nextra, Hosted On Vercel, Licensed Under MIT.</>
 }
